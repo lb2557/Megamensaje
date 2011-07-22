@@ -9,10 +9,10 @@
         xmlns:rim="http://www.blackberry.com/ns/widgets"
 	version="1.0.0.0">
 
-  <name>PhoneGap Sample</name>
+  <name>Megamensaje</name>
 
   <description>
-      A sample application written with PhoneGap.
+      Megamensaje.com es un servicio de telecomunicaciones moviles dirigido a grandes y medianas empresas cuya operacion regular exige un contacto directo y frecuente con sus clientes.
   </description>
 
   <license href="http://opensource.org/licenses/alphabetical">
